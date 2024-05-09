@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Run Master</string>
+    <string name="greetings">Hi there runner! </string>
+    <string name="create_account">Create an account </string>
+    <string name="welcome_phrase">Welcome back runner! </string>
+    <string name="login_text">Login into your existing account </string>
+    <string name="register"> Register. </string>
+    <string name="have_account">Already have an account? </string>
+    <string name="no_account"> Don\'t have an account yet? </string>
+    <string name="login"> Login </string>
+    <string name="first_name">First name </string>
+    <string name="last_name">Last name </string>
+    <string name="email">Email</string>
+    <string name="password">Password </string>
+    <string name="welcome">Account Information </string>
+    <!--  Camera-->
+    <string name="taken_photo">Taken photo </string>
+    <string name="re_take">Reprendre</string>
+    <string name="use">Utiliser</string>
+    <string name="cancel">Cancel</string>
+    <string name="take_photo">Take A Photo</string>
+    <string name="switch_camera">Switch Camera</string>
+
+    <!--  Profile Screen-->
+
+    <string name="later">Plus tard</string>
+    <string name="edit">Modifier </string>
+    <string name="continue_str">Continuer</string>
+    <string name="add_picture">Ajouter une photo</string>
+    <string name="add_profile_picture">Ajouter votre photo de profil</string>
+    <string name="add_profile_picture_para">Vous pouvez prendre ou sélectionner une photo, ou la configuer plus tard</string>
+
+
+
+</resources>
