@@ -17,3 +17,8 @@ Run Master is a fitness app designed to track your outdoor activities, providing
 - Google Maps API: Integrated to provide accurate mapping and route visualization.
 - Phone Sensors: Utilized to gather data on steps, acceleration, and other relevant metrics.
 - Jetpack Compose: Employs modern UI toolkit for building native Android apps with ease.
+
+## Screenshots
+![image](https://github.com/Bryan937/RunMaster/assets/70813135/3714ad92-3ae9-4520-804d-05cee1e666d5)
+![image](https://github.com/Bryan937/RunMaster/assets/70813135/592e6c6f-2c52-41fb-ae96-6cfe339b4434)
+
